@@ -9,7 +9,9 @@ https://keithlyang.github.io/Day_Planner/
 
 Screenshots/Pictures
 
+https://github.com/keithlyang/Day_Planner/blob/main/Pictures/Pic1.JPG
 
+*Writing inside text box picture* https://github.com/keithlyang/Day_Planner/blob/main/Pictures/Pic2.JPG
 
 Features
 
